@@ -1,0 +1,7 @@
+sarvamai>=0.1.0
+python-dotenv>=1.0.1
+pandas>=2.2.0
+sacrebleu>=2.4.0
+rouge-score>=0.1.2
+pytest>=8.0.0
+openai>=1.30.0
